@@ -64,12 +64,9 @@ def q_learning(env,
 
 
 ## OUTPUT:
-
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-7.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 ## RESULT:
 Thus, The Python program to find the optimal policy for the RL environment using Q-Learning and comparing the state values with the Monte Carlo method is executed successfully.
 
